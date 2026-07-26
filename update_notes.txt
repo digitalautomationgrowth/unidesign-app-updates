@@ -1,0 +1,5 @@
+Version 1.0.1
+
+• Initial Test Release
+• Auto Update Enabled
+• Performance Improvements
