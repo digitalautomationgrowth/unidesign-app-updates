@@ -1,7 +1,7 @@
 {
   "D711B33C7557919C": {
-    "active": true,
-    "customer": "ACDES",
+    "active": false,
+    "customer": "TESTING",
     "expiry": "2026-08-14"
   }
 }
