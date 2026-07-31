@@ -1,7 +1,17 @@
 {
+  "824D6659D02D6F8F": {
+    "active": true,
+    "customer": "UNIDESIGN ELITE",
+    "expiry": "2026-08-14"
+  },
   "D711B33C7557919C": {
     "active": true,
     "customer": "TESTING",
     "expiry": "2026-08-14"
+  },
+  "E8C0E8545393EE86": {
+    "active": false,
+    "customer": "TESTING SANJAY",
+    "expiry": "2026-08-15"
   }
 }
