@@ -1,1 +1,16 @@
-New Updates
+Release Version: v1.1
+Release Date: 03-Aug-2026
+
+What's New
+
+-Added Box No. / Invoice no.
+-Added Amount in Words Indian format on Invoice.
+-Added Gold Purity Selection (0.999 / 0.995).
+-Automated Manufacturing Cost calculation.
+-Added Ceramic / Other Metal support in Invoice.
+-Added "Insurance Covered By" field for Freight Forwarder details.
+-Enabled Invoice Signature & Stamp on Packing List.
+-Added Annexure & Declaration document generation.
+-Enhanced CEPA Validation Report.
+-mproved Selection House PPL Uploader.
+-Minor bug fixes and performance improvements.
