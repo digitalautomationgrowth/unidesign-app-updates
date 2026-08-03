@@ -3,6 +3,7 @@ Release Date: 03-Aug-2026
 
 What's New
 
+- Added JK Exports Documnets Auto Generation
 -Added Box No. / Invoice no.
 -Added Amount in Words Indian format on Invoice.
 -Added Gold Purity Selection (0.999 / 0.995).
