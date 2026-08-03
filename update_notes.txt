@@ -1,4 +1,18 @@
 Release Version: v1.1
 Release Date: 03-Aug-2026
 
-New Updated..
+What's New
+
+New Features & Enhancements
+Added JK Export Documents auto generation.
+Added Box No. / Invoice 
+Added Amount in Words (Indian Format) on the Invoice
+Added Gold Purity Selection (0.999 / 0.995)
+Automatic Manufacturing Cost calculation
+Added Ceramic / Other Metal support in the Invoice
+Added Insurance Covered By field (Freight Forwarder)
+Added Invoice Signature & Stamp on the Packing List
+Added Annexure & Declaration documents
+Enhanced CEPA Validation Report
+Improved Selection House packing list  Uploader
+General bug fixes and performance improvements
