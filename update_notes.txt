@@ -1,5 +1,1 @@
-Version 1.0
-
-• Initial Test Release
-• Auto Update Enabled
-• Performance Improvements
+New Updated
