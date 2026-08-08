@@ -1,7 +1,1 @@
-UD_ELITE_EXPORT V1.2
-
-New Features & Enhancements-
-
--Certificate-related updates
--Delacred, bangle, bracelet, and other category updates
--Additional improvements and fixes
+New Updated v1.3
